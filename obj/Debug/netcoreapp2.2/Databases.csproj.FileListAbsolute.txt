@@ -1,0 +1,11 @@
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture17\Databases\bin\Debug\netcoreapp2.2\Databases.deps.json
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture17\Databases\bin\Debug\netcoreapp2.2\Databases.runtimeconfig.json
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture17\Databases\bin\Debug\netcoreapp2.2\Databases.runtimeconfig.dev.json
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture17\Databases\bin\Debug\netcoreapp2.2\Databases.dll
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture17\Databases\bin\Debug\netcoreapp2.2\Databases.pdb
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture17\Databases\obj\Debug\netcoreapp2.2\Databases.csprojAssemblyReference.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture17\Databases\obj\Debug\netcoreapp2.2\Databases.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture17\Databases\obj\Debug\netcoreapp2.2\Databases.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture17\Databases\obj\Debug\netcoreapp2.2\Databases.AssemblyInfo.cs
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture17\Databases\obj\Debug\netcoreapp2.2\Databases.dll
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture17\Databases\obj\Debug\netcoreapp2.2\Databases.pdb
